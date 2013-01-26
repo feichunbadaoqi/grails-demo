@@ -1,4 +1,4 @@
 grails-demo
 ===========
 
-share grails 
+This is a repository that contains some demo about grails ,activit and so on . 
